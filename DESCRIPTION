@@ -1,0 +1,18 @@
+Package: rnamp
+Title: RNAmp: RNA Amplification in Mixed Primary Tumors
+Version: 0.1
+Authors@R: c(
+  person("Matthew", "Zatzman", email = "matthew.zatzman@gmail.com", role = c("aut", "cre")),
+  person("Adam", "Shlien", email = "adam.shlien@sickkids.ca", role = "aut"))
+Description: Uses allele counts of somatic and germline variants from  primary tumors to compute the relative RNA output of the cancer cell fraction.
+Depends: R (>= 3.5.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports: dplyr
+NeedsCompilation: no
+Packaged: 2021-07-01 02:42:24 UTC; matth
+Author: Matthew Zatzman [aut, cre],
+  Adam Shlien [aut]
+Maintainer: Matthew Zatzman <matthew.zatzman@gmail.com>

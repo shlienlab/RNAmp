@@ -1,0 +1,2 @@
+sample_name	var.count.somatic	var.count.loh	var.count.total	som.count.flag	loh.count.flag	count.flag	fold_change
+TCGA-05-4250-01A	68	1196	1264	pass	pass	both	2.00561705434252
