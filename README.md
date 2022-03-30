@@ -5,7 +5,7 @@ RNAmp calculates cancer cell specific transcriptional output using DNA and RNA s
 
 ## Installation
 ```R
-devtools::install_github('mjz1/rnamp')
+devtools::install_github('shlienlab/rnamp')
 ```
 
 ## Example
@@ -26,7 +26,7 @@ Example input data can be found in `ExampleData/inputs`. These include:
 ### RNAmp Example Run
 ```R
 # Load the RNAmp library
-library(rnampR)
+library(rnamp)
 
 outdir = "output/"
 
