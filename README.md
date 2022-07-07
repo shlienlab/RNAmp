@@ -1,4 +1,4 @@
-# rnamp
+# RNAmp
 RNA Amplification in Mixed Primary Tumors
 
 RNAmp calculates cancer cell specific transcriptional output using DNA and RNA sequencing data from primary tumors.
