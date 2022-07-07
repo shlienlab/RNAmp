@@ -1,0 +1,2 @@
+© Matthew Zatzman and Adam Shlien
+All rights reserved. No license is being granted in respect of the code provided in this repository. For clarity, no license is being granted to use, compile, modify or distribute the code, nor to any algorithms or processes embodied in the code, which may be patent pending. 
